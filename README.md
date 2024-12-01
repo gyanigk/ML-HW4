@@ -15,6 +15,10 @@ We have recieved three datasets i.e prosodic features, scores and transcripts. T
 <!--
 credits:
  https://github.com/isunitha98selvan/Multimodal-Behavioral-Analytics/tree/main understanding the approach from this repo for text understanding 
+ https://github.com/scoville/sentiment-audio-analysis/tree/master
+ https://github.com/PALASH-BAJPAI/HiRe_Automated_Interviewing_tool
+ https://github.com/PrasoonMishra/Prediction-of-job-interview-performance-by-extracting-prosody-features/tree/master
+ https://github.com/sintu-kumar/Prediction-of-Job-Interview-Performance-by-extracting-Lexical-features-
 -->
 
 ### a. Extracting language features
